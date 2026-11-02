@@ -7,7 +7,7 @@ run every client business from one agent.
 ## Install
 
 ```
-/plugin marketplace add ianscott313/general-dispatch-plugins
+/plugin marketplace add generaldispatch/claude-plugins
 /plugin install general-dispatch@general-dispatch
 ```
 
