@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "general-dispatch": { "type": "http", "url": "https://api.generaldispatch.ai/mcp" },
+    "general-dispatch-start": { "type": "http", "url": "https://api.generaldispatch.ai/mcp/start" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "general-dispatch",
+  "description": "General Dispatch for Claude Code: run home-service businesses (and the agencies behind them) from your agent.",
+  "owner": {
+    "name": "General Dispatch",
+    "email": "support@generaldispatch.ai"
+  },
+  "plugins": [
+    {
+      "name": "general-dispatch",
+      "source": "./general-dispatch",
+      "description": "Run a home-service business from your agent: CRM, booking, texting, follow-ups, quotes, the website and reviews."
+    }
+  ]
+}

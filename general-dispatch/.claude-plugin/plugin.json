@@ -1,0 +1,15 @@
+{
+  "name": "general-dispatch",
+  "displayName": "General Dispatch",
+  "version": "0.1.0",
+  "description": "Run a home-service business from your agent: customers and pipeline, booking on real calendars, texting, follow-ups, quotes, the website and reviews, with Jack answering customers.",
+  "author": { "name": "General Dispatch", "email": "support@generaldispatch.ai", "url": "https://generaldispatch.ai" },
+  "homepage": "https://generaldispatch.ai/agents",
+  "license": "MIT",
+  "keywords": ["hvac", "plumbing", "electrical", "home services", "crm", "booking", "field service", "agency"],
+  "icon": "./icon.svg",
+  "documentationUrl": "https://generaldispatch.ai/agents",
+  "supportUrl": "https://generaldispatch.ai/agents",
+  "privacyPolicyUrl": "https://generaldispatch.ai/privacy",
+  "termsOfServiceUrl": "https://generaldispatch.ai/terms"
+}
